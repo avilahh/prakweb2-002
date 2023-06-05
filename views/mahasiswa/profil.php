@@ -1,0 +1,1 @@
+<h1>mahasiswa/daftar</h1>
